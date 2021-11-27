@@ -1,16 +1,13 @@
+#YANG RECODE JADI YATIM !! ,, KALAU MAU RECODE IZIN DULU GBLK
 import choice
+import socket
 import theards
 import random
 import times
 
-print       ("
-╔══╗─╔══╗╔═╗╔═╗╔════╗╔════╗
-║╔╗║─╚╣─╝║║╚╝║║╚══╗═║╚══╗═║
-║╚╝╚╗─║║─║╔╗╔╗║──╔╝╔╝──╔╝╔╝
-║╔═╗║─║║─║║║║║║─╔╝╔╝──╔╝╔╝─
-║╚═╝║╔╣─╗║║║║║║╔╝═╚═╗╔╝═╚═╗
-╚═══╝╚══╝╚╝╚╝╚╝╚════╝╚════╝")
 print (" >>>> Discord : KyBimzZ  び#1716 <<<< ")
+print (" >>>> Author : Bimzz x KyTeam <<<< ")
+print (" >>>> KyTeam : https://discord.gg/YMT9utYW5U <<<< ")
 
 ip = str(input(" MASUKKAN IP TARGET : "  ;))
 port = int(input(" MASUKKAN PORT TARGET : "  ;))

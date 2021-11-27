@@ -8,18 +8,18 @@ import times
  print("""\033[070m
  
  
-╔╗──────────────────
-║║──────────────────
-║╚═╗╔╗╔╗╔╗╔═══╗╔═══╗
-║╔╗║─╣║╚╝║─══║║─══║║
-║╚╝║║║║║║║║║══╣║║══╣
-╚══╝╚╝╚╩╩╝╚═══╝╚═══╝
- 
+╔══╗─╔══╗╔═╗╔═╗╔════╗╔════╗
+║╔╗║─╚╣─╝║║╚╝║║╚══╗═║╚══╗═║
+║╚╝╚╗─║║─║╔╗╔╗║──╔╝╔╝──╔╝╔╝
+║╔═╗║─║║─║║║║║║─╔╝╔╝──╔╝╔╝─
+║╚═╝║╔╣─╗║║║║║║╔╝═╚═╗╔╝═╚═╗
+╚═══╝╚══╝╚╝╚╝╚╝╚════╝╚════╝
+ >>>>Discord : KyBimzZ  び#1716 <<<< 
  
                          """)
 print("""\033[090
 ip = str(input(" MASUKKAN IP TARGET : "  ;))
-port = int(input(" MASUKKAN PORT TARGET :  ;))
+port = int(input(" MASUKKAN PORT TARGET : "  ;))
 choice = str(input(" MASUKKAN UDP Y/N : "  ;))
 theards = int(input(" MASUKKAN PAKETS : "  ;))
 times = int(input(" MASUKKAN THEARDS : "  ;)

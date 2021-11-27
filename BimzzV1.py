@@ -5,6 +5,12 @@ import theards
 import random
 import times
 
+print ("╔══╗─╔══╗╔═╗╔═╗╔════╗╔════╗
+║╔╗║─╚╣─╝║║╚╝║║╚══╗═║╚══╗═║
+║╚╝╚╗─║║─║╔╗╔╗║──╔╝╔╝──╔╝╔╝
+║╔═╗║─║║─║║║║║║─╔╝╔╝──╔╝╔╝─
+║╚═╝║╔╣─╗║║║║║║╔╝═╚═╗╔╝═╚═╗
+╚═══╝╚══╝╚╝╚╝╚╝╚════╝╚════╝")
 print (" >>>> Discord : KyBimzZ  び#1716 <<<< ")
 print (" >>>> Author : Bimzz x KyTeam <<<< ")
 print (" >>>> KyTeam : https://discord.gg/YMT9utYW5U <<<< ")

@@ -9,12 +9,12 @@ print (" >>>> Discord : KyBimzZ  び#1716 <<<< ")
 print (" >>>> Author : Bimzz x KyTeam <<<< ")
 print (" >>>> KyTeam : https://discord.gg/YMT9utYW5U <<<< ")
 
-ip = str(input(" MASUKKAN IP TARGET : "  ;))
-port = int(input(" MASUKKAN PORT TARGET : "  ;))
-choice = str(input(" MASUKKAN UDP Y/N : "  ;))
-theards = int(input(" MASUKKAN PAKETS : "  ;))
-times = int(input(" MASUKKAN THEARDS : "  ;)
-)
+ip = str(input("MASUKKAN IP TARGET : "))
+port = int(input("MASUKKAN PORT TARGET : "))
+choice = str(input("START Y/N ? : "))
+theards = int(input("MASUKKAN PAKETS : "))
+times = int(input("MASUKKAN THEARDS : "))
+
 
 
 def bimzz():

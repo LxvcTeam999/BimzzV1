@@ -3,19 +3,15 @@ import theards
 import random
 import times
 
- print("""\033[070m
- 
- 
+print       ("
 ╔══╗─╔══╗╔═╗╔═╗╔════╗╔════╗
 ║╔╗║─╚╣─╝║║╚╝║║╚══╗═║╚══╗═║
 ║╚╝╚╗─║║─║╔╗╔╗║──╔╝╔╝──╔╝╔╝
 ║╔═╗║─║║─║║║║║║─╔╝╔╝──╔╝╔╝─
 ║╚═╝║╔╣─╗║║║║║║╔╝═╚═╗╔╝═╚═╗
-╚═══╝╚══╝╚╝╚╝╚╝╚════╝╚════╝
- >>>> Discord : KyBimzZ  び#1716 <<<< 
- 
-                         """)
-print("""\033[090
+╚═══╝╚══╝╚╝╚╝╚╝╚════╝╚════╝")
+print (" >>>> Discord : KyBimzZ  び#1716 <<<< ")
+
 ip = str(input(" MASUKKAN IP TARGET : "  ;))
 port = int(input(" MASUKKAN PORT TARGET : "  ;))
 choice = str(input(" MASUKKAN UDP Y/N : "  ;))

@@ -45,7 +45,7 @@ def bimzz2():
             s.close()
             print("[*] | Yah Down Yah? Awokwsaowkswosk |")
             
- for a in range(threds):
+ for a in range(threads):
     if choice == "y":
         th = threading.Thread(target = bimzz)
         th.start()

